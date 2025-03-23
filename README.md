@@ -11,7 +11,9 @@ As I explore Manim's capabilities, I'll be adding various animations that demons
 ### Basic Morphing
 A series of animations showing spheres morphing into different 3D shapes.
 
-![Video Name](https://raw.githubusercontent.com/RanL703/manimations/main/media/videos/basic_morphing/480p15/BasicMorphing.mp4)
+<video controls="true" allowfullscreen="true">
+  <source src="./media/videos/basic_morphing/480p15/BasicMorphing.mp4" type="video/mp4">
+</video>
 
 Features:
 - Spheres → Tetrahedron (Red)
