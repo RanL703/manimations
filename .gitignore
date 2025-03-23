@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Manim cache and temporary files
+**/partial_movie_files/
+
+# Project-specific ignores
+spheresinshapes.py
+media/videos/spheresinshapes/
+media/images/spheresinshapes/
+
+# Common environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo 
