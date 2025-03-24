@@ -6,11 +6,6 @@ __pycache__/
 # Manim cache and temporary files
 **/partial_movie_files/
 
-# Project-specific ignores
-spheresinshapes.py
-media/videos/spheresinshapes/
-media/images/spheresinshapes/
-
 # Common environment files
 .env
 .venv
